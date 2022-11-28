@@ -4,6 +4,7 @@
 **thiagovicino/thiagovicino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+https://coolors.co/1f363d-40798c-70a9a1-9ec1a3-cfe0c3
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,8 +18,7 @@ Here are some ideas to get you started:
 # 👾 HELLO 🌈
 -----
 
-<p align="center">
-  <iframe src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z" width="480" height="394" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z">via GIPHY</a></p>
+<image [src=](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif)"https://giphy.com/embed/MeJgB3yMMwIaHmKD4z" width="480" height="394" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z">via GIPHY</a></p>
 
 -----
 ## ABOUT ME 🍄
