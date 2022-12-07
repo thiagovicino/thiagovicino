@@ -41,8 +41,8 @@ https://coolors.co/1f363d-40798c-70a9a1-9ec1a3-cfe0c3
 
 -----
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagovicino&show_icons=true&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&title_color=03D361&bg_color=21262d)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovicino&title_color=03D361&bg_color=21262d)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagovicino&show_icons=true&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovicino)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me around the web 🌎
 
