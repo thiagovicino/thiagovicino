@@ -23,7 +23,7 @@ https://coolors.co/1f363d-40798c-70a9a1-9ec1a3-cfe0c3
 
 - 👨🏻‍🎓 Graduate student of Internacional Relations at São Paulo State University
 
-- 💻 Currently working at LabRI/UNESP project **Brazilian Foreign Policy News' Library**, [available here](https://hemerotecapeb.lantri.org/recoll/)
+- 💻 Currently working at LabRI/UNESP project **Brazilian Foreign Policy News Library**, [available here](https://hemerotecapeb.lantri.org/recoll/)
 
 - 📖 Learning more about and studying: **Python and RStudio**.
 
