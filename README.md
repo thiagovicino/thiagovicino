@@ -46,6 +46,6 @@ https://coolors.co/1f363d-40798c-70a9a1-9ec1a3-cfe0c3
 
 ## Find me around the web 🌎
 
-- 🔗 Connecting and sharing professional updates on[Linkedin](https://www.linkedin.com/in/thiagovicino)
+- 🔗 Connecting and sharing professional updates on [Linkedin](https://www.linkedin.com/in/thiago-vicino)
 
 - 💼 Following my work on <a href="https://labriunesp.org"><img src="https://cdn-icons-png.flaticon.com/512/408/408168.png" width="16"></img></a> [LabRI/UNESP](https://labriunesp.org)
