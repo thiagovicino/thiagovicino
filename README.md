@@ -15,7 +15,7 @@ https://coolors.co/1f363d-40798c-70a9a1-9ec1a3-cfe0c3
 # Hello, World!
 <p align="center">
   <span>
-    <img align="center" width="510" src="Open source-rafiki.svg" />
+    <img align="center" width="410" src="Open source-rafiki.svg" />
   </a>
 </p>
 
